@@ -32,7 +32,7 @@ public class GestorCoches {
         c3.setMotor(new Combustion(3,150));
         c3.arrancar();
 
-
+        //añadir ruedas
 
 
 
