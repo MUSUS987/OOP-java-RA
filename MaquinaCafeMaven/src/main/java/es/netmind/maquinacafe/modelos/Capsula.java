@@ -1,5 +1,7 @@
 package es.netmind.maquinacafe.modelos;
 
+
+
 public class Capsula {
     private int identificador;
     private String marca;

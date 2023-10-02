@@ -1,5 +1,7 @@
 package es.netmind.maquinacafe.modelos.tazacafe;
 
+
+
 public class Corto extends TazaCafe {
 
     private int cantidadLeche;
